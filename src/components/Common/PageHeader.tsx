@@ -37,7 +37,7 @@ const PageHeader: React.FC<PageHeaderProps> = ({
         </div>
 
         {/* Animation Shape Image */}
-        {/* <div className="shape-img2">
+        <div className="shape-img2">
           <Image
             src="/images/shape/shape2.svg"
             alt="image"
@@ -100,7 +100,7 @@ const PageHeader: React.FC<PageHeaderProps> = ({
             width={12}
             height={11}
           />
-        </div> */}
+        </div>
       </div>
     </>
   );
