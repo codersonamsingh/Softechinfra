@@ -101,73 +101,73 @@ export const menus = [
   },
   {
     label: "Services",
-    link: "#",
-    submenu: [
-      {
-        label: "Services Style One",
-        link: "/services/",
-      },
-      {
-        label: "Services Style Two",
-        link: "/services/2/",
-      },
-      {
-        label: "Services Style Three",
-        link: "/services/3/",
-      },
-      {
-        label: "Service Details",
-        link: "/services/details/",
-      },
-    ],
-  },
-  {
-    label: "Projects",
-    link: "#",
-    submenu: [
-      {
-        label: "Projects Style One",
-        link: "/projects/",
-      },
-      {
-        label: "Projects Style Two",
-        link: "/projects/2/",
-      },
-      {
-        label: "Projects Style Three",
-        link: "/projects/3/",
-      },
-      {
-        label: "Projects Style Four",
-        link: "/projects/4/",
-      },
-      {
-        label: "Project Details",
-        link: "/projects/details/",
-      },
-    ],
+    link:  "/services/2/",
+  //   submenu: [
+  //     {
+  //       label: "Services Style One",
+  //       link: "/services/",
+  //     },
+  //     {
+  //       label: "Services Style Two",
+  //       link: "/services/2/",
+  //     },
+  //     {
+  //       label: "Services Style Three",
+  //       link: "/services/3/",
+  //     },
+  //     {
+  //       label: "Service Details",
+  //       link: "/services/details/",
+  //     },
+  //   ],
+  // },
+  // {
+  //   label: "Projects",
+  //   link: "#",
+  //   submenu: [
+  //     {
+  //       label: "Projects Style One",
+  //       link: "/projects/",
+  //     },
+  //     {
+  //       label: "Projects Style Two",
+  //       link: "/projects/2/",
+  //     },
+  //     {
+  //       label: "Projects Style Three",
+  //       link: "/projects/3/",
+  //     },
+  //     {
+  //       label: "Projects Style Four",
+  //       link: "/projects/4/",
+  //     },
+  //     {
+  //       label: "Project Details",
+  //       link: "/projects/details/",
+  //     },
+  //   ],
   },
   {
     label: "Shop",
-    link: "#",
-    submenu: [
-      {
-        label: "Shop",
-        link: "/shop/",
-      },
-      {
-        label: "Single Products",
-        link: "/shop/details/",
-      },
-      {
-        label: "Cart",
-        link: "/shop/cart/",
-      },
-      {
-        label: "Checkout",
-        link: "/shop/checkout/",
-      },
-    ],
+    link: "/shop/",
+    // submenu: [
+    //   {
+    //     label: "Shop",
+    //     link: "/shop/",
+    //   },
+    //   {
+    //     label: "Single Products",
+    //     link: "/shop/details/",
+    //   },
+    //   {
+    //     label: "Cart",
+    //     link: "/shop/cart/",
+    //   },
+    //   {
+    //     label: "Checkout",
+    //     link: "/shop/checkout/",
+    //   },
+    // ],
   },
   {
     label: "Blog",
