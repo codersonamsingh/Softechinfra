@@ -171,21 +171,21 @@ export const menus = [
   },
   {
     label: "Blog",
-    link: "#",
-    submenu: [
-      {
-        label: "Blog Grid",
-        link: "/blog/",
-      },
-      {
-        label: "Blog Right Sidebar",
-        link: "/blog/with-right-sidebar/",
-      },
-      {
-        label: "Blog Details",
-        link: "/blog/details/",
-      },
-    ],
+    link: "/blog/details/",
+    // submenu: [
+    //   {
+    //     label: "Blog Grid",
+    //     link: "/blog/",
+    //   },
+    //   {
+    //     label: "Blog Right Sidebar",
+    //     link: "/blog/with-right-sidebar/",
+    //   },
+    //   {
+    //     label: "Blog Details",
+    //     link: "/blog/details/",
+    //   },
+    // ],
   },
   {
     label: "Contact",
