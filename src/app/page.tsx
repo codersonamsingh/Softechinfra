@@ -22,11 +22,10 @@ export default function Home() {
 
       <BannerSlider />
 
-      <FeaturedServices />
+       <OurServices />
 
       <PartnerSlider />
 
-      <OurServices />
 
       <OurFeaturesTab />
 

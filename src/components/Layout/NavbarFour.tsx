@@ -15,10 +15,10 @@ const NavbarFour: React.FC = () => {
   };
 
   // Search Form
-  const [searchForm, setSearchForm] = useState<boolean>(false);
-  const handleSearchForm = (): void => {
-    setSearchForm((prevState) => !prevState);
-  };
+  // const [searchForm, setSearchForm] = useState<boolean>(false);
+  // const handleSearchForm = (): void => {
+  //   setSearchForm((prevState) => !prevState);
+  // };
 
   // Navbar
   const [collapsed, setCollapsed] = useState<boolean>(true);
@@ -98,27 +98,27 @@ const NavbarFour: React.FC = () => {
                 </div>
 
                 <div className="option-item">
-                  <i
+                  {/* <i
                     onClick={handleSearchForm}
                     className="search-btn flaticon-search"
                     style={{
                       display: searchForm ? "none" : "block",
                     }}
-                  ></i>
+                  ></i> */}
 
-                  <i
+                  {/* <i
                     onClick={handleSearchForm}
                     className={`close-btn flaticon-close ${
                       searchForm ? "active" : ""
                     }`}
-                  ></i>
+                  ></i> */}
 
-                  <div
+                  {/* <div
                     className="search-overlay search-popup"
                     style={{
                       display: searchForm ? "block" : "none",
                     }}
-                  >
+                  > */}
                     <div className="search-box">
                       <form className="search-form">
                         <input

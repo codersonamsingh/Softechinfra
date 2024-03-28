@@ -87,21 +87,21 @@ const Navbar: React.FC = () => {
               </div>
 
               <div className="others-options">
-                <div className="cart-items">
+                {/* <div className="cart-items">
                   <Link href="/cart">
                     <i className="fas fa-shopping-cart"></i>
                     <span>{5}</span>
                   </Link>
-                </div>
+                </div> */}
 
                 <div className="option-item">
-                  <i
+                  {/* <i
                     onClick={handleSearchForm}
                     className="search-btn flaticon-search"
                     style={{
                       display: searchForm ? "none" : "block",
                     }}
-                  ></i>
+                  ></i> */}
 
                   <i
                     onClick={handleSearchForm}
