@@ -13,7 +13,7 @@ const Banner: React.FC = () => {
               <div className="row align-items-center">
                 <div className="col-lg-6 col-md-12">
                   <div className="hero-main-banner-content">
-                    <span className="sub-title">Your brand, promoted</span>
+                    {/* <span className="sub-title">Your brand, promoted</span> */}
                     <h1>Creative solutions to improve your business!</h1>
                     <p>
                       We work hand-in-hand with industry-leading brands to help

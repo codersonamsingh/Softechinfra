@@ -155,14 +155,14 @@ const BannerSlider: React.FC = () => {
                 height={355}
               />
             </div>
-            <div className="shape-img14">
+            {/* <div className="shape-img14">
               <Image
                 src="/images/shape/shape14.png"
                 alt="image"
                 width={234}
                 height={355}
               />
-            </div>
+            </div> */}
           </div>
         </SwiperSlide>
 
@@ -293,14 +293,14 @@ const BannerSlider: React.FC = () => {
                 height={355}
               />
             </div>
-            <div className="shape-img14">
+            {/* <div className="shape-img14">
               <Image
                 src="/images/shape/shape14.png"
                 alt="image"
                 width={234}
                 height={355}
               />
-            </div>
+            </div> */}
           </div>
         </SwiperSlide>
 
@@ -431,14 +431,14 @@ const BannerSlider: React.FC = () => {
                 height={355}
               />
             </div>
-            <div className="shape-img14">
+            {/* <div className="shape-img14">
               <Image
                 src="/images/shape/shape14.png"
                 alt="image"
                 width={234}
                 height={355}
               />
-            </div>
+            </div> */}
           </div>
         </SwiperSlide>
       </Swiper>

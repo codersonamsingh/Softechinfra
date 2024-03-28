@@ -1,5 +1,6 @@
 import Navbar from "../components/Layout/Navbar";
-import Banner from "../components/CreativeAgency/Banner";
+import BannerSlider from "../components/SEOAgency/BannerSlider";
+
 import FeaturedServices from "../components/CreativeAgency/FeaturedServices";
 import PartnerSlider from "../components/Common/Partner/PartnerSlider";
 import OurServices from "../components/CreativeAgency/OurServices";
@@ -19,7 +20,7 @@ export default function Home() {
     <>
       <Navbar />
 
-      <Banner />
+      <BannerSlider />
 
       <FeaturedServices />
 
