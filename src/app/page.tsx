@@ -1,6 +1,7 @@
 import Navbar from "../components/Layout/Navbar";
 import BannerSlider from "../components/SEOAgency/BannerSlider";
-
+import WhatWeDo from "../components/Services/WhatWeDo";
+import WhyChooseUs from "../components/AboutTwo/WhyChooseUs";
 import FeaturedServices from "../components/CreativeAgency/FeaturedServices";
 import PartnerSlider from "../components/Common/Partner/PartnerSlider";
 import OurServices from "../components/CreativeAgency/OurServices";
@@ -23,6 +24,10 @@ export default function Home() {
       <BannerSlider />
 
        <OurServices />
+
+       <WhyChooseUs />
+
+       <WhatWeDo />
 
       <PartnerSlider />
 
