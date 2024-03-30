@@ -3,6 +3,7 @@ import Navbar from "../../../components/Layout/Navbar";
 import PageHeader from "../../../components/Common/PageHeader";
 import BlogDetailsContent from "../../../components/BlogDetails/BlogDetailsContent";
 import Footer from "../../../components/Layout/Footer";
+import BlogCard from "../../../components/Blog/BlogCard";
 
 export default function Page() {
   return (
@@ -15,6 +16,8 @@ export default function Page() {
         breadcrumbUrl="/"
         breadcrumbTextTwo="Blog Details"
       />
+
+      <BlogCard />
 
       <BlogDetailsContent />
 
