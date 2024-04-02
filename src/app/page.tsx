@@ -1,5 +1,6 @@
 import Navbar from "../components/Layout/Navbar";
 import BannerSlider from "../components/SEOAgency/BannerSlider";
+import Banner from "../components/SaasAgency/Banner";
 import WhatWeDo from "../components/Services/WhatWeDo";
 import WhyChooseUs from "../components/AboutTwo/WhyChooseUs";
 import FeaturedServices from "../components/CreativeAgency/FeaturedServices";
@@ -22,6 +23,8 @@ export default function Home() {
       <Navbar />
 
       <BannerSlider />
+
+      <Banner />
 
        <OurServices />
 
