@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../../components/Layout/Navbar";
-import Banner from "../../components/ITStartup/Banner";
+
 import OurFeaturesTab from "../../components/Common/OurFeaturesTab";
 import PageHeader from "../../components/Common/PageHeader";
 import AboutArea from "../../components/AboutTwo/AboutArea";
@@ -18,7 +18,7 @@ export default function Page() {
     <>
       <Navbar />
 
-      <Banner />
+      
 
       <PageHeader
         pageTitle="About Us "

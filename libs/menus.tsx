@@ -55,7 +55,7 @@ export const menus = [
   },
   {
     label: "About",
-    link: "/about2/",
+    link: "/about/",
     // submenu: [
     //   {
     //     label: "About Us",
