@@ -15,8 +15,9 @@ const CaseStudies: React.FC = () => {
             <span className="sub-title">Projects</span>
             <h2>Our Case Studies</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna.
+            providing services in software engineering, throughout India and many foreign country since that time.
+             The key agenda of the company is to deliver a completely bug free and trustworthy software as per need of the 
+             client
             </p>
           </div>
 

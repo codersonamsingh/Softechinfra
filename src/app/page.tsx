@@ -10,6 +10,7 @@ import OurFeaturesTab from "../components/Common/OurFeaturesTab";
 import FunFacts from "../components/Common/FunFacts";
 import ProjectGallerySlider from "../components/Common/ProjectGallerySlider";
 import OurTeam from "../components/Common/OurTeam";
+import CaseStudies from "../components/SEOAgency/CaseStudies";
 import Solution from "../components/Common/Solution";
 import Testimonials from "../components/Common/Testimonials";
 import Pricing from "../components/Common/Pricing";
@@ -24,9 +25,10 @@ export default function Home() {
 
       <BannerSlider />
 
-      <Banner />
-
        <OurServices />
+
+        
+      <CaseStudies />
 
        <WhyChooseUs />
 

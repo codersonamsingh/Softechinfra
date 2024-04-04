@@ -17,18 +17,18 @@ const WhyChooseUs: React.FC = () => {
                   <h2>Engaging New Audiences Through Smart Approach</h2>
 
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                  Softechinfra, An Indian startup in IT Services is a highly motivated and well-established firm with a solid and long-term record in the field of study, planning and execution of development projects. Established in the year 2014 in Calcutta, India. 
+                  The company has remained an independent, fully Indian owned, providing services in software engineering, throughout India and many foreign country since that time.
+                   The key agenda of the company is to deliver a completly bug free and trustworthy software as per need of the client.
                   </p>
 
-                  <p>
+                  {/* <p>
                     Nullam quis ante. Etiam sit amet orci eget eros faucibus
                     tincidunt. Duis leo. Sed fringilla mauris sit amet nibh.
                     Donec sodales sagittis magna. Sed consequat, leo eget
                     bibendum sodales, augue velit cursus nunc. Donec vitae
                     sapien ut libero venenatis faucibus tempus.
-                  </p>
+                  </p> */}
                 </div>
 
                 <div className="choose-btn">

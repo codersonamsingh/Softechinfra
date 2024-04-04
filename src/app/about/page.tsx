@@ -1,6 +1,9 @@
 import React from "react";
 import Navbar from "../../components/Layout/Navbar";
-
+import Banner from "../../components/SaasAgency/Banner";
+import ServicesOverview from "../../components/ITStartup/ServicesOverview";
+import Faq from "../../components/SaasAgency/Faq";
+import LatestWorks from "../../components/ITStartup/LatestWorks";
 import OurFeaturesTab from "../../components/Common/OurFeaturesTab";
 import PageHeader from "../../components/Common/PageHeader";
 import AboutArea from "../../components/AboutTwo/AboutArea";
@@ -26,7 +29,8 @@ export default function Page() {
         breadcrumbUrl="/"
         breadcrumbTextTwo="About Us "
       />
-
+       
+       <Banner />
 
       <AboutArea />
 
@@ -34,9 +38,15 @@ export default function Page() {
 
       <FunFactsTwo />
 
+      <ServicesOverview />
+
       <WhyChooseUs />
 
       <Solution />
+
+      <Faq />
+
+      <LatestWorks />
 
       <Testimonials />
 
