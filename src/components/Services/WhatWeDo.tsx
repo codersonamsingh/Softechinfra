@@ -23,8 +23,8 @@ const WhatWeDo: React.FC = () => {
                   <Link href="/services/details">Digital Marketing</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet elit sed, consectetur adipiscing
-                  elit, sed do eiusmod tempor incididunt.
+                Market research is an organized effort to gather information about target markets or customers. 
+                It is a very important component of business strategy.
                 </p>
 
                 <Link href="/services/details" className="read-more-btn">
@@ -43,8 +43,8 @@ const WhatWeDo: React.FC = () => {
                   <Link href="/services/details">Design & Development</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet elit sed, consectetur adipiscing
-                  elit, sed do eiusmod tempor incididunt.
+                We at Softechinfra love design and develop a world-class web application for your ... We build 
+                applications and software products which are scalable and flexible for all type of business .
                 </p>
 
                 <Link href="/services/details" className="read-more-btn">
@@ -63,8 +63,9 @@ const WhatWeDo: React.FC = () => {
                   <Link href="/services/details">Strategic Planing</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet elit sed, consectetur adipiscing
-                  elit, sed do eiusmod tempor incididunt.
+                Being a leader in app development segment, AppWebStudios leaves no room for errors or compromises.
+                 We really believe, want and aim to give 100% ideal and relevant IT & digital communication solutions to our stakeholders 
+                so that they are able to leverage technology advantage in their business.
                 </p>
 
                 <Link href="/services/details" className="read-more-btn">
@@ -83,8 +84,8 @@ const WhatWeDo: React.FC = () => {
                   <Link href="/services/details">SEO Consultancy</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet elit sed, consectetur adipiscing
-                  elit, sed do eiusmod tempor incididunt.
+                Our services comes with lifetime support facilities.
+                 We maintain and constant upgrade our products according to the latest technologies and versions.
                 </p>
 
                 <Link href="/services/details" className="read-more-btn">
@@ -103,8 +104,10 @@ const WhatWeDo: React.FC = () => {
                   <Link href="/services/details">Competitor Analysis</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet elit sed, consectetur adipiscing
-                  elit, sed do eiusmod tempor incididunt.
+                We believe brand interaction is key in communication.
+                 Real innovations and a positive customer experience are the heart of successful communication. No fake products and services. The customer is king, their lives and needs are the inspiration.
+
+Core Development
                 </p>
 
                 <Link href="/services/details" className="read-more-btn">
@@ -125,8 +128,8 @@ const WhatWeDo: React.FC = () => {
                 </h3>
 
                 <p>
-                  Lorem ipsum dolor sit amet elit sed, consectetur adipiscing
-                  elit, sed do eiusmod tempor incididunt.
+                We believe brand interaction is key to communication.
+                 Real innovations and positive customer experience are the heart of success.
                 </p>
 
                 <Link href="/services/details" className="read-more-btn">
