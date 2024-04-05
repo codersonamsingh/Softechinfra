@@ -43,8 +43,8 @@ const LatestNews: React.FC = () => {
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore.
+                  We believe brand interaction is key to communication.
+                   Real innovations and positive customer experience are the heart of success.
                   </p>
 
                   <Link href="/blog/details" className="read-more-btn">
@@ -73,7 +73,7 @@ const LatestNews: React.FC = () => {
                         By:
                         <Link href="/blog">James Anderson</Link>
                       </li>
-                      <li>June 26, 2023</li>
+                      <li>June 26, 2024</li>
                     </ul>
                   </div>
                   <h3>
@@ -82,8 +82,8 @@ const LatestNews: React.FC = () => {
                     </Link>
                   </h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore.
+                  The key agenda of the company is to deliver a
+                   completly bug free and trustworthy software as per client's need.
                   </p>
 
                   <Link href="/blog/details" className="read-more-btn">
