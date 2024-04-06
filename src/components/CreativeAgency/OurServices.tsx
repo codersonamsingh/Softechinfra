@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import Image from "next/image"; 
+import Image from "next/image";
 
 const OurServices: React.FC = () => {
   return (
@@ -10,48 +10,43 @@ const OurServices: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Our Services</span>
-            <h2>Amazing Business Solution Whatever Your Needs</h2>
+            <h2>Empowering Your Business with Cutting-Edge Solutions</h2>
             <p>
-              Real innovations and positive customer experience are the heart of
-              successful communication. No fake products and services.
+              At Softechinfra, we deliver real innovation and foster positive customer experiences at every step. No gimmicks, just genuine solutions tailored to your needs.
             </p>
           </div>
 
-          {/* Our Services One */}
+          {/* Digital Marketing */}
           <div className="overview-box">
             <div className="overview-content">
               <div className="content">
                 <span className="sub-title">Digital Marketing</span>
-                <h2>Creative solutions, creative results</h2>
+                <h2>Unlocking Creative Solutions for Outstanding Results</h2>
                 <p>
-                  We believe brand interaction is key to communication. Real
-                  innovations and positive customer experience are the heart of
-                  successful communication.
+                  Our approach to digital marketing is centered around meaningful brand interactions, driving real results and enhancing customer experiences.
                 </p>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Core Development
+                    <i className="flaticon-tick"></i> Strategic Planning
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    We focus on core development, ensuring that every solution aligns with your business objectives.
                   </p>
                 </div>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Define Your Choices
+                    <i className="flaticon-tick"></i> Tailored Strategies
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    We customize our approach to suit your unique needs, putting the customer at the forefront of every decision.
                   </p>
                 </div>
               </div>
             </div>
 
-            <div 
+            <div
               className="overview-image"
               data-aos="fade-up"
               data-aos-duration="800"
@@ -69,7 +64,7 @@ const OurServices: React.FC = () => {
             </div>
           </div>
 
-          {/* Our Services Two */}
+          {/* Design & Development */}
           <div className="overview-box">
             <div className="overview-image">
               <div className="image">
@@ -89,42 +84,35 @@ const OurServices: React.FC = () => {
             <div className="overview-content">
               <div className="content right-content">
                 <span className="sub-title">Design & Development</span>
-                <h2>Solving problems, building brands</h2>
+                <h2>Solving Problems, Building Brands</h2>
                 <p>
-                  We believe brand interaction is key to communication. Real
-                  innovations and positive customer experience are the heart of
-                  successful communication.
+                  Our design and development services are geared towards fostering brand growth and solving complex challenges.
                 </p>
 
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Recommender systems
+                      <i className="fas fa-check"></i> Website Development
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Demand prediction
+                      <i className="fas fa-check"></i> Mobile App Development
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Omnichannel analytics
+                      <i className="fas fa-check"></i> CRM Software Solutions
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Lead generation
+                      <i className="fas fa-check"></i> UI/UX Design
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Dedicated Developers
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> 24/7 Support
+                      <i className="fas fa-check"></i> Cloud Solutions (AWS, Azure)
                     </span>
                   </li>
                 </ul>
@@ -132,35 +120,31 @@ const OurServices: React.FC = () => {
             </div>
           </div>
 
-          {/* Our Services Three */}
+          {/* Social Media Marketing */}
           <div className="overview-box">
             <div className="overview-content">
               <div className="content">
                 <span className="sub-title">Social Media Marketing</span>
-                <h2>We are the next generation of the advertising world</h2>
+                <h2>Shaping the Future of Advertising</h2>
                 <p>
-                  We believe brand interaction is key to communication. Real
-                  innovations and positive customer experience are the heart of
-                  successful communication.
+                  We leverage the power of social media to create impactful campaigns and drive brand engagement like never before.
                 </p>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Core Development
+                    <i className="flaticon-tick"></i> Targeted Campaigns
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    Our social media strategies are designed to resonate with your audience, delivering tangible results.
                   </p>
                 </div>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Define Your Choices
+                    <i className="flaticon-tick"></i> Data-Driven Approaches
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    We harness the latest analytics tools to refine our strategies and ensure maximum ROI for your campaigns.
                   </p>
                 </div>
               </div>
@@ -182,7 +166,7 @@ const OurServices: React.FC = () => {
             </div>
           </div>
 
-          {/* Our Services Four */}
+          {/* SEO Consultancy */}
           <div className="overview-box">
             <div className="overview-image">
               <div className="image">
@@ -202,42 +186,35 @@ const OurServices: React.FC = () => {
             <div className="overview-content">
               <div className="content right-content">
                 <span className="sub-title">SEO Consultancy</span>
-                <h2>We make smart, good-looking things</h2>
+                <h2>Driving Online Visibility with Strategic SEO Solutions</h2>
                 <p>
-                  We believe brand interaction is key to communication. Real
-                  innovations and positive customer experience are the heart of
-                  successful communication.
+                  Our SEO consultancy services are aimed at boosting your online presence and driving organic traffic to your website.
                 </p>
 
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Recommender systems
+                      <i className="fas fa-check"></i> On-Page Optimization
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Demand prediction
+                      <i className="fas fa-check"></i> Off-Page Optimization
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Omnichannel analytics
+                      <i className="fas fa-check"></i> Keyword Research
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Lead generation
+                      <i className="fas fa-check"></i> SEO Audits
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Dedicated Developers
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> 24/7 Support
+                      <i className="fas fa-check"></i> Local SEO
                     </span>
                   </li>
                 </ul>

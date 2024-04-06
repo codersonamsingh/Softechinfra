@@ -10,7 +10,7 @@ const WhatWeDo: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">What We Do</span>
-            <h2>Provide Awesome Service With Our Tools</h2>
+            <h2>Empower Your Business with Our Solutions</h2>
           </div>
 
           <div className="row">
@@ -23,10 +23,8 @@ const WhatWeDo: React.FC = () => {
                   <Link href="/services/details">Digital Marketing</Link>
                 </h3>
                 <p>
-                Market research is an organized effort to gather information about target markets or customers. 
-                It is a very important component of business strategy.
+                  Comprehensive market research drives our digital marketing campaigns, a crucial aspect of business strategy.
                 </p>
-
                 <Link href="/services/details" className="read-more-btn">
                   Read More
                   <i className="flaticon-right-arrow"></i>
@@ -43,10 +41,8 @@ const WhatWeDo: React.FC = () => {
                   <Link href="/services/details">Design & Development</Link>
                 </h3>
                 <p>
-                We at Softechinfra love design and develop a world-class web application for your ... We build 
-                applications and software products which are scalable and flexible for all type of business .
+                  We excel in crafting top-notch web applications tailored to your needs, ensuring scalability and flexibility for businesses of all sizes.
                 </p>
-
                 <Link href="/services/details" className="read-more-btn">
                   Read More
                   <i className="flaticon-right-arrow"></i>
@@ -60,14 +56,11 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-analytics"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Strategic Planing</Link>
+                  <Link href="/services/details">Strategic Planning</Link>
                 </h3>
                 <p>
-                Being a leader in app development segment, AppWebStudios leaves no room for errors or compromises.
-                 We really believe, want and aim to give 100% ideal and relevant IT & digital communication solutions to our stakeholders 
-                so that they are able to leverage technology advantage in their business.
+                  We are committed to delivering error-free IT solutions, providing stakeholders with ideal digital communication solutions to leverage technology effectively.
                 </p>
-
                 <Link href="/services/details" className="read-more-btn">
                   Read More
                   <i className="flaticon-right-arrow"></i>
@@ -84,10 +77,8 @@ const WhatWeDo: React.FC = () => {
                   <Link href="/services/details">SEO Consultancy</Link>
                 </h3>
                 <p>
-                Our services comes with lifetime support facilities.
-                 We maintain and constant upgrade our products according to the latest technologies and versions.
+                  Our SEO consultancy services include lifetime support and continuous product upgrades to align with the latest technologies.
                 </p>
-
                 <Link href="/services/details" className="read-more-btn">
                   Read More
                   <i className="flaticon-right-arrow"></i>
@@ -104,12 +95,8 @@ const WhatWeDo: React.FC = () => {
                   <Link href="/services/details">Competitor Analysis</Link>
                 </h3>
                 <p>
-                We believe brand interaction is key in communication.
-                 Real innovations and a positive customer experience are the heart of successful communication. No fake products and services. The customer is king, their lives and needs are the inspiration.
-
-Core Development
+                  Brand interaction is key in communication. We focus on delivering real innovations and ensuring a positive customer experience.
                 </p>
-
                 <Link href="/services/details" className="read-more-btn">
                   Read More
                   <i className="flaticon-right-arrow"></i>
@@ -122,16 +109,12 @@ Core Development
                 <div className="icon bg-eb6b3d">
                   <i className="flaticon-seo"></i>
                 </div>
-
                 <h3>
                   <Link href="/services/details">Social Media Marketing</Link>
                 </h3>
-
                 <p>
-                We believe brand interaction is key to communication.
-                 Real innovations and positive customer experience are the heart of success.
+                  Our approach to social media marketing focuses on brand interaction and fostering positive customer experiences.
                 </p>
-
                 <Link href="/services/details" className="read-more-btn">
                   Read More
                   <i className="flaticon-right-arrow"></i>
