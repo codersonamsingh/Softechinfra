@@ -320,11 +320,8 @@ const OurFeaturesTab: React.FC = () => {
                     <span className="sub-title">Define Your Choices</span>
                     <h2>Development</h2>
                     <p>
-                      We believe brand interaction is key in communication. Real
-                      innovations and a positive customer experience are the
-                      heart of successful communication. No fake products and
-                      services. The customer is king, their lives and needs are
-                      the inspiration.
+                    Our design and development services are geared
+                     towards fostering brand growth and solving complex challenges.
                     </p>
 
                     <ul className="features-list">

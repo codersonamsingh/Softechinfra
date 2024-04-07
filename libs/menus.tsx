@@ -101,7 +101,7 @@ export const menus = [
   },
   {
     label: "Services",
-    link:  "/services/2/",
+    link:  "/services/",
   //   submenu: [
   //     {
   //       label: "Services Style One",

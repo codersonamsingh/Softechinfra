@@ -12,8 +12,9 @@ const LatestWorks: React.FC = () => {
           <div className="section-title">
             <h2>Our Latest Works</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna.
+            Take a look at some of our recent projects that showcase our expertise and innovation.
+
+
             </p>
           </div>
 

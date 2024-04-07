@@ -14,9 +14,9 @@ const ServicesOverview: React.FC = () => {
               <div className="content">
                 <h2>Digital Marketing</h2>
                 <p>
-                  We believe brand interaction is key to communication. Real
-                  innovations and positive customer experience are the heart of
-                  success.
+                  We believe brand interaction is key to communication. Our approach to digital marketing is centered around
+                   meaningful brand interactions,
+                   driving real results and enhancing customer experiences.
                 </p>
 
                 <ul className="features-list">
@@ -106,9 +106,7 @@ const ServicesOverview: React.FC = () => {
               <div className="content right-content">
                 <h2>Web Design & Development</h2>
                 <p>
-                  We believe brand interaction is key to communication. Real
-                  innovations and positive customer experience are the heart of
-                  success.
+                Our design and development services are geared towards fostering brand growth and solving complex challenges.
                 </p>
 
                 <ul className="features-list">
@@ -256,9 +254,8 @@ const ServicesOverview: React.FC = () => {
               <div className="content right-content">
                 <h2>SEO Consultancy</h2>
                 <p>
-                  We believe brand interaction is key to communication. Real
-                  innovations and positive customer experience are the heart of
-                  success.
+                Our SEO consultancy services are aimed at
+                 boosting your online presence and driving organic traffic to your website.
                 </p>
 
                 <div className="features-text">

@@ -43,41 +43,30 @@ const AboutArea: React.FC = () => {
               <div className="about-content">
                 <div className="section-title text-left">
                   <span className="sub-title">About Us</span>
-                  <h2>We are Dynamic Team of IT Startup Company</h2>
+                  <h2>We are Your Trusted IT Solutions Partner</h2>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                    Softechinfra is a dynamic team dedicated to providing innovative IT solutions tailored to your needs. With our expertise in software development, website development, mobile app development, digital marketing, and more, we help businesses thrive in the digital landscape.
                   </p>
                 </div>
                 
                 <div className="about-text">
                   <h4>Who We Are</h4>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusantium doloremque laudantium, totam rem
-                    aperiam, eaque ipsa quae ab illo inventore veritatis et
-                    quasi architecto beatae vitae dicta sunt explicabo.
+                    At Softechinfra, we believe in leveraging technology to empower businesses and individuals. Our team comprises skilled professionals passionate about delivering cutting-edge solutions that drive growth and success.
                   </p>
                 </div>
 
                 <div className="about-text">
                   <h4>Our History</h4>
                   <p>
-                    But I must explain to you how all this mistaken idea of
-                    denouncing pleasure and praising pain was born and I will
-                    give you a complete account of the system, and expound the
-                    actual teachings of the great explorer of the truth.
+                    With a wealth of experience in building CRM software for leading companies like Reliance General Insurance and Oasis Manors, Softechinfra has established itself as a trusted name in the industry. We have a proven track record of delivering robust and scalable solutions that meet the unique requirements of our clients.
                   </p>
                 </div>
 
                 <div className="about-text">
                   <h4>Our Mission</h4>
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    qui blanditiis praesentium voluptatum deleniti atque
-                    corrupti quos dolores et quas molestias excepturi sint
-                    occaecati cupiditate non provident, similique sunt in culpa.
+                    Our mission at Softechinfra is to empower businesses with innovative IT solutions that drive growth and profitability. We are committed to delivering exceptional value to our clients through strategic planning, design and development, digital marketing, and consultancy services.
                   </p>
                 </div>
               </div>

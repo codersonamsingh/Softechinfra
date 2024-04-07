@@ -28,7 +28,7 @@ const Banner: React.FC = () => {
                       data-aos-duration="800"
                       data-aos-delay="100"
                     >
-                      Manage Your Digital Marketing in One Place Softechinfra
+                      Empower Your Digital Presence with Softechinfra
                     </h1>
 
                     <p
@@ -36,9 +36,7 @@ const Banner: React.FC = () => {
                       data-aos-duration="800"
                       data-aos-delay="200"
                     >
-                      We work hand-in-hand with industry-leading brands to help
-                      redefine the possibilities and potential of digital
-                      engagements.
+                      Partnering with forward-thinking enterprises, we elevate digital experiences to new heights.
                     </p>
 
                     <div
@@ -52,7 +50,7 @@ const Banner: React.FC = () => {
                       </Link>
 
                       <Link href="/index7" className="default-btn-two">
-                        Try It Now <span></span>
+                        Explore Now <span></span>
                       </Link>
                     </div>
                   </div>
