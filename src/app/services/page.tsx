@@ -3,6 +3,7 @@ import Navbar from "../../components/Layout/Navbar";
 import PageHeader from "../../components/Common/PageHeader";
 import WhyChooseUs from "../../components/Services/WhyChooseUs";
 import WhatWeDo from "../../components/Services/WhatWeDo";
+import PricingStyleTwo from "../../components/Pricing/PricingStyleTwo";
 import Footer from "../../components/Layout/Footer";
 
 export default function Page() {
@@ -20,6 +21,8 @@ export default function Page() {
       <WhyChooseUs />
 
       <WhatWeDo />
+
+      <PricingStyleTwo />
 
       <Footer />
     </>

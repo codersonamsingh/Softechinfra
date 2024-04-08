@@ -12,8 +12,8 @@ const PricingStyleTwo: React.FC = () => {
           <div className="section-title">
             <h2>Choose The Pricing Plan</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            At Softechinfra, we offer flexible pricing plans to suit your needs. Whether you're looking for daily, 
+            weekly, or monthly services, we've got you covered.
             </p>
           </div>
 

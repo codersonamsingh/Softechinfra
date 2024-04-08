@@ -10,7 +10,7 @@ const WhatWeDo: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">What We Do</span>
-            <h2>Empower Your Business with Our Solutions</h2>
+            <h2>Transform Your Business with Our Innovative Solutions</h2>
           </div>
 
           <div className="row">
@@ -20,10 +20,10 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-digital-marketing"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Digital Marketing</Link>
+                  <Link href="/services/details">Software Development</Link>
                 </h3>
                 <p>
-                  Comprehensive market research drives our digital marketing campaigns, a crucial aspect of business strategy.
+                  Elevate your business with our custom software development solutions, tailored to meet your unique requirements.
                 </p>
                 <Link href="/services/details" className="read-more-btn">
                   Read More
@@ -38,10 +38,10 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-research"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Design & Development</Link>
+                  <Link href="/services/details">Website Development</Link>
                 </h3>
                 <p>
-                  We excel in crafting top-notch web applications tailored to your needs, ensuring scalability and flexibility for businesses of all sizes.
+                  Build a strong online presence with our expert website development services, crafted to enhance user experience and drive engagement.
                 </p>
                 <Link href="/services/details" className="read-more-btn">
                   Read More
@@ -56,10 +56,10 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-analytics"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Strategic Planning</Link>
+                  <Link href="/services/details">Mobile App Development</Link>
                 </h3>
                 <p>
-                  We are committed to delivering error-free IT solutions, providing stakeholders with ideal digital communication solutions to leverage technology effectively.
+                  Stay ahead in the mobile era with our innovative mobile app development solutions, designed to enhance user engagement and drive business growth.
                 </p>
                 <Link href="/services/details" className="read-more-btn">
                   Read More
@@ -74,10 +74,10 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-analysis"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">SEO Consultancy</Link>
+                  <Link href="/services/details">Digital Marketing</Link>
                 </h3>
                 <p>
-                  Our SEO consultancy services include lifetime support and continuous product upgrades to align with the latest technologies.
+                  Drive your business forward with our comprehensive digital marketing strategies, tailored to maximize your online presence and reach your target audience effectively.
                 </p>
                 <Link href="/services/details" className="read-more-btn">
                   Read More
@@ -92,10 +92,10 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-mail"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Competitor Analysis</Link>
+                  <Link href="/services/details">SEO Consultancy</Link>
                 </h3>
                 <p>
-                  Brand interaction is key in communication. We focus on delivering real innovations and ensuring a positive customer experience.
+                  Boost your online visibility and drive organic traffic to your website with our expert SEO consultancy services, designed to help you achieve top search engine rankings.
                 </p>
                 <Link href="/services/details" className="read-more-btn">
                   Read More
@@ -110,10 +110,10 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-seo"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Social Media Marketing</Link>
+                  <Link href="/services/details">Strategic Planning</Link>
                 </h3>
                 <p>
-                  Our approach to social media marketing focuses on brand interaction and fostering positive customer experiences.
+                  Develop a roadmap for success with our strategic planning services, designed to help you identify opportunities, overcome challenges, and achieve your business goals.
                 </p>
                 <Link href="/services/details" className="read-more-btn">
                   Read More

@@ -11,31 +11,27 @@ const WhyChooseUs: React.FC = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
               <div className="why-choose-content">
-                <span className="sub-title">Why Choose Us</span>
-                <h2>The Key To Your Motivation And Success</h2>
+                <span className="sub-title">Why Choose Softechinfra</span>
+                <h2>Empowering Your Digital Journey</h2>
                 <p>
-                  We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication.
+                  At Softechinfra, we understand that meaningful brand interaction is the cornerstone of effective communication. Our commitment to real innovation and delivering exceptional customer experiences lies at the heart of everything we do.
                 </p>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Core Development
+                    <i className="flaticon-tick"></i> Expert Development
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    We pride ourselves on delivering genuine solutions tailored to your needs. With a focus on cutting-edge technologies and industry best practices, we ensure your satisfaction and success.
                   </p>
                 </div>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Define Your Choices
+                    <i className="flaticon-tick"></i> Customized Solutions
                   </h4>
                   <p>
-                    No fake products and services. The customer is king, their
-                    lives and needs are the inspiration.
+                    At Softechinfra, we recognize that every client is unique. Our approach revolves around understanding your specific requirements and delivering tailored solutions that exceed your expectations.
                   </p>
                 </div>
               </div>
