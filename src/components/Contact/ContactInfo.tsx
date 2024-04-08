@@ -22,10 +22,11 @@ const ContactInfo: React.FC = () => {
             <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="contact-info-box">
                 <div className="icon">
-                  <i className="flaticon-phone-call"></i>
+                //  <i className="flaticon-phone-call"></i>
                 </div>
                 <h3>Our Location</h3>
-                <p>123 Main Street, Cityville, Country</p>
+                <p>ARARIA, BIHAR 854321
+                   INDIA Country</p>
               </div>
             </div>
 
@@ -35,8 +36,8 @@ const ContactInfo: React.FC = () => {
                   <i className="flaticon-marker"></i>
                 </div>
                 <h3>Call Us</h3>
-                <p>+123 456 7890</p>
-                <p>+241 452 4526</p>
+                <p>+91 9846173905</p>
+               
               </div>
             </div>
           </div>
