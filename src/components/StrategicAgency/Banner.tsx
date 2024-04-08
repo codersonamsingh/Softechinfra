@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
@@ -15,11 +13,10 @@ const Banner: React.FC = () => {
                 <div className="col-lg-6 col-md-12">
                   <div className="hero-banner-content">
                     <span className="sub-title">Welcome to Softechinfra</span>
-                    <h1>Creative & Strategic Digital Marketing Agency</h1>
+                    <h1>Innovative Solutions for Your Digital Needs</h1>
                     <p>
-                      We work hand-in-hand with industry-leading brands to help
-                      redefine the possibilities and potential of digital
-                      engagements.
+                      Empowering businesses with cutting-edge technologies and
+                      strategic insights to thrive in the digital landscape.
                     </p>
 
                     <div className="btn-box">

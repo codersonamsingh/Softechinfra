@@ -16,11 +16,11 @@ const Banner: React.FC = () => {
               data-aos-duration="800"
               data-aos-delay="100"
             >
-              Welcome to Softechinfra
+              Empower Your Digital Presence with Softechinfra
             </span>
             
             <h1 data-aos="fade-up" data-aos-duration="800" data-aos-delay="200">
-              Creative & Strategic Digital Marketing Agency
+              Unlock Creativity & Strategic Solutions in Digital Marketing
             </h1>
 
             <div

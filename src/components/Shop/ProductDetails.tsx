@@ -36,7 +36,7 @@ const ProductDetails: React.FC = () => {
 
             <div className="col-lg-6 col-md-12">
               <div className="product-details-desc">
-                <h3>Book Chicks</h3>
+                <h3>Customized Software Solutions</h3>
 
                 <div className="price">
                   <span className="new-price">$541.00</span>
@@ -44,10 +44,7 @@ const ProductDetails: React.FC = () => {
                 </div>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et. Lorem ipsum dolor
-                  sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                  incididunt ut labore et.
+                  Softechinfra offers bespoke software solutions tailored to your business needs. Our team of experts ensures seamless integration and optimal performance.
                 </p>
 
                 <div className="product-add-to-cart">
@@ -63,7 +60,7 @@ const ProductDetails: React.FC = () => {
 
                   <button type="submit" className="default-btn">
                     <i className="fas fa-cart-plus"></i>
-                    Add to Cart
+                    Request a Quote
                     <span></span>
                   </button>
                 </div>
@@ -83,7 +80,7 @@ const ProductDetails: React.FC = () => {
 
                   <div className="item">
                     <button type="button" className="btn btn-light">
-                      Buy it now!
+                      Contact Us
                     </button>
                   </div>
                 </div>

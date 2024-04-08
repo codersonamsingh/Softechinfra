@@ -7,8 +7,8 @@ const ContactForm: React.FC = () => {
   const [formData, setFormData] = useState({
     name: "",
     email: "",
-    number: "",
-    subject: "",
+    phone: "",
+    serviceInterested: "",
     message: "",
   });
 
@@ -30,8 +30,8 @@ const ContactForm: React.FC = () => {
     setFormData({
       name: "",
       email: "",
-      number: "",
-      subject: "",
+      phone: "",
+      serviceInterested: "",
       message: "",
     });
   };
@@ -42,10 +42,10 @@ const ContactForm: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Contact Us</span>
-            <h2>Drop us Message for any Query</h2>
+            <h2>Get In Touch</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Feel free to reach out for any inquiries. We are here to assist
+              you.
             </p>
           </div>
 
@@ -54,7 +54,7 @@ const ContactForm: React.FC = () => {
               <div className="contact-image">
                 <Image
                   src="/images/contact.png"
-                  alt="image"
+                  alt="Contact"
                   width={310}
                   height={350}
                 />
@@ -73,7 +73,7 @@ const ContactForm: React.FC = () => {
                           value={formData.name}
                           onChange={handleChange}
                           className="form-control"
-                          placeholder="Name"
+                          placeholder="Your Name"
                           required
                         />
                       </div>
@@ -82,12 +82,12 @@ const ContactForm: React.FC = () => {
                     <div className="col-lg-6 col-md-12">
                       <div className="form-group">
                         <input
-                          type="text"
+                          type="email"
                           name="email"
                           value={formData.email}
                           onChange={handleChange}
                           className="form-control"
-                          placeholder="Email"
+                          placeholder="Your Email"
                           required
                         />
                       </div>
@@ -97,11 +97,11 @@ const ContactForm: React.FC = () => {
                       <div className="form-group">
                         <input
                           type="tel"
-                          name="number"
-                          value={formData.number}
+                          name="phone"
+                          value={formData.phone}
                           onChange={handleChange}
                           className="form-control"
-                          placeholder="Phone"
+                          placeholder="Your Phone"
                           required
                         />
                       </div>
@@ -111,11 +111,11 @@ const ContactForm: React.FC = () => {
                       <div className="form-group">
                         <input
                           type="text"
-                          name="subject"
-                          value={formData.subject}
+                          name="serviceInterested"
+                          value={formData.serviceInterested}
                           onChange={handleChange}
                           className="form-control"
-                          placeholder="Subject"
+                          placeholder="Service Interested In"
                           required
                         />
                       </div>

@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../../../components/Layout/Navbar";
+import Banner from "../../../components/DigitalAgency/Banner";
 import PageHeader from "../../../components/Common/PageHeader";
 import BlogDetailsContent from "../../../components/BlogDetails/BlogDetailsContent";
 import Footer from "../../../components/Layout/Footer";
@@ -16,6 +17,8 @@ export default function Page() {
         breadcrumbUrl="/"
         breadcrumbTextTwo="Blog Details"
       />
+
+      <Banner />
 
       <BlogCard />
 

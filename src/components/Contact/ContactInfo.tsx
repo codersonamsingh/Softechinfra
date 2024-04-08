@@ -13,9 +13,9 @@ const ContactInfo: React.FC = () => {
                 <div className="icon">
                   <i className="flaticon-email"></i>
                 </div>
-                <h3>Email Here</h3>
-                <p>admin@softechinfra.com</p>
-                <p>contactinfo@softechinfra.com</p>
+                <h3>Email Us</h3>
+                <p>info@softechinfra.com</p>
+                <p>support@softechinfra.com</p>
               </div>
             </div>
 
@@ -24,8 +24,8 @@ const ContactInfo: React.FC = () => {
                 <div className="icon">
                   <i className="flaticon-phone-call"></i>
                 </div>
-                <h3>Location Here</h3>
-                <p>2750 Quadra Street Victoria Road, New York, Canada</p>
+                <h3>Our Location</h3>
+                <p>123 Main Street, Cityville, Country</p>
               </div>
             </div>
 
@@ -34,7 +34,7 @@ const ContactInfo: React.FC = () => {
                 <div className="icon">
                   <i className="flaticon-marker"></i>
                 </div>
-                <h3>Call Here</h3>
+                <h3>Call Us</h3>
                 <p>+123 456 7890</p>
                 <p>+241 452 4526</p>
               </div>
