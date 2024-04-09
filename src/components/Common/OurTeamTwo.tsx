@@ -64,7 +64,7 @@ const OurTeamTwo: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Vivek Singh</h3>
+                  <h3>Priyanka choudhary</h3>
                   <span>CEO & Founder</span>
                 </div>
               </div>
@@ -97,7 +97,7 @@ const OurTeamTwo: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Lucy Eva</h3>
+                  <h3>Rajput Vivek</h3>
                   <span>Backend Team Leader</span>
                 </div>
               </div>
@@ -130,7 +130,7 @@ const OurTeamTwo: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Steven Smith</h3>
+                  <h3>Devraj Singh</h3>
                   <span>Web Developer</span>
                 </div>
               </div>

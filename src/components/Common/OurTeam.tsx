@@ -48,7 +48,7 @@ const OurTeam: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="/images/team-image/team2.jpg"
+                    src="https://media.licdn.com/dms/image/D4D03AQGQHLtTbhtxow/profile-displayphoto-shrink_400_400/0/1691451653487?e=2147483647&v=beta&t=jjU-H2RA1k5uzV4QdN9Y_Nh68702Y7LtSM88KWx5X3U"
                     alt="team"
                     width={660}
                     height={660}
@@ -68,7 +68,7 @@ const OurTeam: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Lucy Eva</h3>
+                  <h3>Amit Singh</h3>
                   <span>Manager</span>
                 </div>
               </div>
@@ -78,7 +78,7 @@ const OurTeam: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="/images/team-image/team3.jpg"
+                    src="https://media.licdn.com/dms/image/C4D03AQGqtWs46fP_rA/profile-displayphoto-shrink_800_800/0/1659613126566?e=2147483647&v=beta&t=mUqugn3m2PgBAU4O9CuczZ14dkmNdBeXmoZjfPWdLb4"
                     alt="team"
                     width={660}
                     height={660}
@@ -98,7 +98,9 @@ const OurTeam: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Steven Smith</h3>
+                  <h3>Brajesh pandey
+                    
+                  </h3>
                   <span>Web Developer</span>
                 </div>
               </div>

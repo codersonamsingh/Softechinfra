@@ -57,7 +57,7 @@ const Testimonials: React.FC = () => {
                   width={150}
                   height={150}
                 />
-                <h3>Jason Roy</h3>
+                <h3>Sagar Devkota</h3>
                 <span>Manager</span>
               </div>
             </div>
@@ -77,7 +77,7 @@ const Testimonials: React.FC = () => {
                   width={150}
                   height={150}
                 />
-                <h3>James Anderson</h3>
+                <h3>Vivek Singh</h3>
                 <span>Web Developer</span>
               </div>
             </div>
@@ -97,7 +97,7 @@ const Testimonials: React.FC = () => {
                   width={150}
                   height={150}
                 />
-                <h3>Sarah Taylor</h3>
+                <h3>Sagar Panday</h3>
                 <span>Designer</span>
               </div>
             </div>
@@ -117,7 +117,7 @@ const Testimonials: React.FC = () => {
                   width={150}
                   height={150}
                 />
-                <h3>Steven Smith</h3>
+                <h3>Rahul Sharma</h3>
                 <span>Manager</span>
               </div>
             </div>
@@ -137,7 +137,9 @@ const Testimonials: React.FC = () => {
                   width={150}
                   height={150}
                 />
-                <h3>Tom Nessham</h3>
+                <h3>Rajesh kumar
+                  
+                </h3>
                 <span>Softechinfra</span>
               </div>
             </div>
