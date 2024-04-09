@@ -130,7 +130,7 @@ const OurTeamTwo: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Devraj Singh</h3>
+                  <h3>Sonam Singh</h3>
                   <span>Web Developer</span>
                 </div>
               </div>
